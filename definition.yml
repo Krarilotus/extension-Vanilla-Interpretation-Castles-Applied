@@ -1,0 +1,8 @@
+name: Vanilla-Interpretation-Castles-Applied
+dsiplay-name: "Vanilla Interpretation Castles Applied"
+author: Krarilotus
+version: 1.0.2
+dependencies:
+  Vanilla-Interpretation-Castles: ^1.0.2
+  framework: ^3.0.0
+  frontend: ^1.0.0

@@ -1,0 +1,208 @@
+config-sparse:
+  modules:
+    aiSwapper:
+      config:
+        menu:
+          contents:
+            suggested-value:
+              rat:
+                - name: Vanilla-Interpretation Rat
+                  root: ucp/plugins/Vanilla-Interpretation-Castles/resources/ai/Rat/
+                  control:
+                    aiv: true
+              snake:
+                - name: Vanilla-Interpretation Snake
+                  root: ucp/plugins/Vanilla-Interpretation-Castles/resources/ai/Snake/
+                  control:
+                    aiv: true
+              pig:
+                - name: Vanilla-Interpretation Pig
+                  root: ucp/plugins/Vanilla-Interpretation-Castles/resources/ai/Pig/
+                  control:
+                    aiv: true
+              wolf:
+                - name: Vanilla-Interpretation Wolf
+                  root: ucp/plugins/Vanilla-Interpretation-Castles/resources/ai/Wolf/
+                  control:
+                    aiv: true
+              saladin:
+                - name: Vanilla-Interpretation Saladin
+                  root: ucp/plugins/Vanilla-Interpretation-Castles/resources/ai/Saladin/
+                  control:
+                    aiv: true
+              caliph:
+                - name: Vanilla-Interpretation Caliph
+                  root: ucp/plugins/Vanilla-Interpretation-Castles/resources/ai/Caliph/
+                  control:
+                    aiv: true
+              sultan:
+                - name: Vanilla-Interpretation Sultan
+                  root: ucp/plugins/Vanilla-Interpretation-Castles/resources/ai/Sultan/
+                  control:
+                    aiv: true
+              richard:
+                - name: Vanilla-Interpretation Richard
+                  root: ucp/plugins/Vanilla-Interpretation-Castles/resources/ai/Richard/
+                  control:
+                    aiv: true
+              frederick:
+                - name: Vanilla-Interpretation Frederick
+                  root: ucp/plugins/Vanilla-Interpretation-Castles/resources/ai/Frederick/
+                  control:
+                    aiv: true
+              phillip:
+                - name: Vanilla-Interpretation Phillip
+                  root: ucp/plugins/Vanilla-Interpretation-Castles/resources/ai/Phillip/
+                  control:
+                    aiv: true
+              wazir:
+                - name: Vanilla-Interpretation Wazir
+                  root: ucp/plugins/Vanilla-Interpretation-Castles/resources/ai/Wazir/
+                  control:
+                    aiv: true
+              emir:
+                - name: Vanilla-Interpretation Emir
+                  root: ucp/plugins/Vanilla-Interpretation-Castles/resources/ai/Emir/
+                  control:
+                    aiv: true
+              nizar:
+                - name: Vanilla-Interpretation Nizar
+                  root: ucp/plugins/Vanilla-Interpretation-Castles/resources/ai/Nizar/
+                  control:
+                    aiv: true
+              sheriff:
+                - name: Vanilla-Interpretation Sheriff
+                  root: ucp/plugins/Vanilla-Interpretation-Castles/resources/ai/Sheriff/
+                  control:
+                    aiv: true
+              marshal:
+                - name: Vanilla-Interpretation Marshal
+                  root: ucp/plugins/Vanilla-Interpretation-Castles/resources/ai/Marshall/
+                  control:
+                    aiv: true
+              abbot:
+                - name: Vanilla-Interpretation Abbot
+                  root: ucp/plugins/Vanilla-Interpretation-Castles/resources/ai/Abbot/
+                  control:
+                    aiv: true
+        defaultLanguage:
+          contents:
+            suggested-value: null
+        ai:
+          rat:
+            aiv:
+              contents:
+                suggested-value:
+                  name: Vanilla-Interpretation Rat
+                  root: ucp/plugins/Vanilla-Interpretation-Castles/resources/ai/Rat/
+                  active: true
+          snake:
+            aiv:
+              contents:
+                suggested-value:
+                  name: Vanilla-Interpretation Snake
+                  root: ucp/plugins/Vanilla-Interpretation-Castles/resources/ai/Snake/
+                  active: true
+          pig:
+            aiv:
+              contents:
+                suggested-value:
+                  name: Vanilla-Interpretation Pig
+                  root: ucp/plugins/Vanilla-Interpretation-Castles/resources/ai/Pig/
+                  active: true
+          wolf:
+            aiv:
+              contents:
+                suggested-value:
+                  name: Vanilla-Interpretation Wolf
+                  root: ucp/plugins/Vanilla-Interpretation-Castles/resources/ai/Wolf/
+                  active: true
+          saladin:
+            aiv:
+              contents:
+                suggested-value:
+                  name: Vanilla-Interpretation Saladin
+                  root: ucp/plugins/Vanilla-Interpretation-Castles/resources/ai/Saladin/
+                  active: true
+          caliph:
+            aiv:
+              contents:
+                suggested-value:
+                  name: Vanilla-Interpretation Caliph
+                  root: ucp/plugins/Vanilla-Interpretation-Castles/resources/ai/Caliph/
+                  active: true
+          sultan:
+            aiv:
+              contents:
+                suggested-value:
+                  name: Vanilla-Interpretation Sultan
+                  root: ucp/plugins/Vanilla-Interpretation-Castles/resources/ai/Sultan/
+                  active: true
+          richard:
+            aiv:
+              contents:
+                suggested-value:
+                  name: Vanilla-Interpretation Richard
+                  root: ucp/plugins/Vanilla-Interpretation-Castles/resources/ai/Richard/
+                  active: true
+          frederick:
+            aiv:
+              contents:
+                suggested-value:
+                  name: Vanilla-Interpretation Frederick
+                  root: ucp/plugins/Vanilla-Interpretation-Castles/resources/ai/Frederick/
+                  active: true
+          phillip:
+            aiv:
+              contents:
+                suggested-value:
+                  name: Vanilla-Interpretation Phillip
+                  root: ucp/plugins/Vanilla-Interpretation-Castles/resources/ai/Phillip/
+                  active: true
+          wazir:
+            aiv:
+              contents:
+                suggested-value:
+                  name: Vanilla-Interpretation Wazir
+                  root: ucp/plugins/Vanilla-Interpretation-Castles/resources/ai/Wazir/
+                  active: true
+          emir:
+            aiv:
+              contents:
+                suggested-value:
+                  name: Vanilla-Interpretation Emir
+                  root: ucp/plugins/Vanilla-Interpretation-Castles/resources/ai/Emir/
+                  active: true
+          nizar:
+            aiv:
+              contents:
+                suggested-value:
+                  name: Vanilla-Interpretation Nizar
+                  root: ucp/plugins/Vanilla-Interpretation-Castles/resources/ai/Nizar/
+                  active: true
+          sheriff:
+            aiv:
+              contents:
+                suggested-value:
+                  name: Vanilla-Interpretation Sheriff
+                  root: ucp/plugins/Vanilla-Interpretation-Castles/resources/ai/Sheriff/
+                  active: true
+          marshal:
+            aiv:
+              contents:
+                suggested-value:
+                  name: Vanilla-Interpretation Marshal
+                  root: ucp/plugins/Vanilla-Interpretation-Castles/resources/ai/Marshall/
+                  active: true
+          abbot:
+            aiv:
+              contents:
+                suggested-value:
+                  name: Vanilla-Interpretation Abbot
+                  root: ucp/plugins/Vanilla-Interpretation-Castles/resources/ai/Abbot/
+                  active: true
+  plugins:
+    Vanilla-Interpretation-Castles:
+      config: {}
+meta:
+  version: 1.0.0
