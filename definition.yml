@@ -12,8 +12,3 @@ tags:
 family:
 - name: vanilla-interpretation-castles
   root: true
-capabilities:
-  files: false
-  code: false
-  configuration: true
-  options: false
