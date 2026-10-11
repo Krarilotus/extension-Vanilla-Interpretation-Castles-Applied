@@ -1,11 +1,11 @@
 name: Vanilla-Interpretation-Castles-Applied
-display-name: "Apply Vanilla Interpretation Castles"
+display-name: Apply Vanilla Interpretation Castles
 author: Krarilotus
 version: 1.0.3
 dependencies:
   Vanilla-Interpretation-Castles: ^1.0.2
   framework: ^3.0.0
-  frontend: ^1.0.0
+  frontend: '>=1.0.17 <2.0.0'
 tags:
 - ai
 - aiv
