@@ -12,3 +12,5 @@ tags:
 family:
 - name: vanilla-interpretation-castles
   root: true
+  members:
+  - Vanilla-Interpretation-Castles
